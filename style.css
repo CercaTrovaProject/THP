@@ -1,0 +1,14 @@
+#entete {
+  display: flex;
+  justify-content: flex-end;
+  justify-content: space-around;
+  }
+  #google {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#questions {
+  display: flex;
+  justify-content : center;
+}
